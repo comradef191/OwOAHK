@@ -45,6 +45,8 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 :*:fuck::fwick
 :*:fck::Change mi diapee I made a stinky and a pee pee
 :*:F-C-K::Change mi diapee I made a stinky and a pee pee
+::foot::paw
+::feet::paws
 
 ;G
 :*:gotta::gotsa
@@ -64,6 +66,8 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 :*:have::hab
 :*:how're::hows
 ::howre::hows
+:*:hand::paw
+::horny::horni
 
 ;I
 :*:it's::ish
@@ -76,7 +80,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 :*:into::intuh
 :*:is::ish
 ::irl::eye awll ell
-:*?:inspect:inspwect
+:*?:inspect::inspwect
 
 ;J
 :*:just::jus
@@ -85,7 +89,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 :*?:kind of::kinda
 
 ;L
-:*:love::wub
+:*:love::wuv
 :*:letter::lettew
 :*:little::widdwe
 :*?:lose::woose
@@ -96,12 +100,14 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 :?:my::muh
 :*:much::mush
 ::mrr::mrr
+:?*:mouth::maw
 
 ;N
 :*:normally::nowmawly
 ::no::nu
 :*:nobody::nubuddy
 :*:not::nawt
+::nose::snoot
 
 ;O
 :*:ouch::owwie
