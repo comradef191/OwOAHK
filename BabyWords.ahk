@@ -19,7 +19,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 ;C
 :*:constant::cawnstant
-:*:cute::coot
+:*:cute::cyoot
 :*:couldn't::couldn
 :*:couldnt::couldn
 
@@ -43,8 +43,8 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ;F
 :*:function::funcshin
 :*:fuck::fwick
-:*:fck::Change mi diapee I made a stinky and a pee pee
-:*:F-C-K::Change mi diapee I made a stinky and a pee pee
+:*:fck::fwick
+:*:F-C-K::fwick
 ::foot::paw
 ::feet::paws
 
