@@ -119,7 +119,7 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 ;P
 :*:poop::poopie
 :*:pee::wee
-:*:piss:pee
+:*:piss::pee
 
 ;Q
 :*:question::kweshtin
